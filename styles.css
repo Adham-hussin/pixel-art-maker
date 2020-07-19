@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    background-image: url("https://images.wallpaperscraft.com/image/planet_galaxy_universe_121293_3840x2160.jpg");
+    background-size: 1300px 700px
+}
+
+h1 {
+    font-family: Mali;
+    font-size: 70px;
+    margin: 0.2em;
+    color: lightblue
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    color: orange;
+    font-family:Lacquer;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+
+}
+
+table,
+tr,
+td {
+    border: 1px solid red;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+
+}
+
+td {
+    width: 20px;
+
+}
+
+input[type=number] {
+    width: 6em;
+}
+span {
+    color: green;
+    font-family: "Ma Shan Zheng";
+    font-size:20px;
+}
+#but{
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 25px
+}
+#colorPicker{
+    border: 1px dashed darkblue;
+    border-radius: 30px;
+}
+#inputHeight{
+color: black
+background-color:blue;
+border: 1px dotted red;
+border-radius: 40px;
+}
+#inputWidth{
+color: gray
+background-color:red;
+border: 1px dotted blue;
+border-radius: 40px;
+}
